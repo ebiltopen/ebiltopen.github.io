@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebiltopen.github.io/ebiltopen.ebiltopen
+Sitemap: https://ebiltopen.github.io/app/ebiltopen.ebiltopen
+Sitemap: https://ebiltopen.github.io/assets/ebiltopen.ebiltopen
+Sitemap: https://ebiltopen.github.io/css/ebiltopen.ebiltopen
+Sitemap: https://ebiltopen.github.io/includes/ebiltopen.ebiltopen
+Sitemap: https://ebiltopen.github.io/item/ebiltopen.ebiltopen
+Sitemap: https://ebiltopen.github.io/src/ebiltopen.ebiltopen
